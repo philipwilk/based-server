@@ -41,6 +41,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "207ebeb56999649bff2b9a4134b5a66b26299e0bd4f26b4131874fc269bd820b"
+metafile = true
+
+[[files]]
 file = "mods/creeper-ai-updated.pw.toml"
 hash = "4fc4f09f8292810d3e34b2f7ac0d2771d9e3e3997c42b7d5228091bf6404d903"
 metafile = true
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "c9b5c7f923336eb60458492ee72e30471edefa0b5b897d279def756101895737"
 metafile = true
 
 [[files]]
