@@ -1,0 +1,13 @@
+name = "SpaghettiTrees"
+filename = "spaghettitrees-1.3.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XnhrlU1X/versions/1.3.1+1.19/spaghettitrees-1.3.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "e698c7e7d9ce40c0a04961be38e441571e43eace"
+
+[update]
+[update.modrinth]
+mod-id = "XnhrlU1X"
+version = "2Q4yg4dC"

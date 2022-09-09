@@ -1,0 +1,13 @@
+name = "Unbelievably Based 1 . 19 . 2 Server"
+author = "wiryfuture"
+version = "1.3.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "43def8c1562b7e06ecb6adb95a2677c06f42d31bde1296dbc63c20ad93865838"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.5-beta.2"

@@ -1,0 +1,156 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "2ef0a818817588c92c0b0858f214326f9a640f152d8f595781e264176f3bc66c"
+metafile = true
+
+[[files]]
+file = "mods/antishulkerdupe.pw.toml"
+hash = "4e453ab81762f80605f2d85746b3554bff2dc848ae389129c52ab0afbcaba49a"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "75dcdffc0d37e098ef12f1b149d68182337372e2d48653ffe0389b94b357a0de"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "c65fb7a6459404783860340cf31a4b20fa7b37f0f031a85372eb1bb509f27b3f"
+metafile = true
+
+[[files]]
+file = "mods/boat-fall.pw.toml"
+hash = "364c30ea68f7a9ef78076e17d41b7161c5b89a7c7cdd1d69778316931d6bab67"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/creeper-ai-updated.pw.toml"
+hash = "4fc4f09f8292810d3e34b2f7ac0d2771d9e3e3997c42b7d5228091bf6404d903"
+metafile = true
+
+[[files]]
+file = "mods/day-dream.pw.toml"
+hash = "31932abd7bc97481d216a54450ffe5a11c994114bd0ae67f674c37db409aceb8"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "55701cdc653a6fa577240c9164e5c67ef8f6d2559126ee2da9d68f724e74d64a"
+metafile = true
+
+[[files]]
+file = "mods/headindex.pw.toml"
+hash = "e02618f0d2b2c773602da8382dde5d0de34c05f934035654ec9989bb282416c0"
+metafile = true
+
+[[files]]
+file = "mods/holograms.pw.toml"
+hash = "9f88c19e337cc27f00ed94d8b214c0f5966eaec144ffcd720ce87a1055b96911"
+metafile = true
+
+[[files]]
+file = "mods/htm.pw.toml"
+hash = "561eee5ab7553061d4489cebb24b9c9f7249b716dbedc6c0e5428cc2f039b0a1"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "dadcde5442ffdd9755166893fbf6985409908d469a557788301523c16c6e6ebc"
+metafile = true
+
+[[files]]
+file = "mods/keepheadnames.pw.toml"
+hash = "7e1a3a881192e77c3b6df591bcf683791dc43d7cb4351799e22089446d81db70"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "942915b4c02216c49d7ed821b2d062f5a96f921f3dde628952b6401aa38c98a4"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "79c8f0a39cb0d8e3b30341ad4190b81b283abb8f117adfb539506042e08e4f7e"
+metafile = true
+
+[[files]]
+file = "mods/spaghettitrees.pw.toml"
+hash = "2b449db58877b51e8224df6dbdae1ed9358d2415a0cf5203e1d377f582747ad2"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "689bf94d0ad4ba52a7cfab340152abbf1bdc14151c22fc882b9f1cded48e0048"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "9daac54745a83ffd2a0a1e082c695ff34aa2bd3c9cc336ba2ce7c88e59042a89"
+metafile = true
+
+[[files]]
+file = "mods/village-spawn-point.pw.toml"
+hash = "80e152fc0c1787faa0bf3a52f39f72455c9fb312a85c4933d83b1b215f38246b"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "5290122207493b6350080792571bceb0038941ffe3a73779e4a78a60f5b9c113"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "a171322112f845cfce4d815fa1e615bd857f2bd895329010193386b0f952a264"
+metafile = true
+
+[[files]]
+file = "mods/wither-cage-fix.pw.toml"
+hash = "46af28df1c01cf2e22804a3f0fd4cb6ffda3a5c15716dad22d6cba9e2f636d4d"
+metafile = true
+
+[[files]]
+file = "mods/worldborderfix.pw.toml"
+hash = "252d0bfbd4564105d294ec747d735e81957f4a36bd44553f486cbba7ed6dd500"
+metafile = true
