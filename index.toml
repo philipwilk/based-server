@@ -101,6 +101,11 @@ hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "cd2704a99b24207489be8c2b19167e04e241fc4385985fbb3761eda1ed92d26f"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "c9b5c7f923336eb60458492ee72e30471edefa0b5b897d279def756101895737"
 metafile = true
