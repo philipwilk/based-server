@@ -1,13 +1,13 @@
 name = "Hey That's Mine"
-filename = "htm-1.1.5.jar"
+filename = "htm-1.1.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IEPAK5x6/versions/1.1.5/htm-1.1.5.jar"
+url = "https://cdn.modrinth.com/data/IEPAK5x6/versions/WM2WD52i/htm-1.1.7.jar"
 hash-format = "sha1"
-hash = "667db4115d26259f3e4c255f3eb808de5141194d"
+hash = "8643d95e5e3c7e6f6258b38ef02729b87e3f8e5b"
 
 [update]
 [update.modrinth]
 mod-id = "IEPAK5x6"
-version = "AQsM9AoP"
+version = "WM2WD52i"

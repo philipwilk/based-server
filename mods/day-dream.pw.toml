@@ -1,13 +1,13 @@
 name = "Day Dream"
-filename = "day-dream-1.0.5.jar"
+filename = "day-dream-1.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FKi0XGBk/versions/1.0.5/day-dream-1.0.5.jar"
+url = "https://cdn.modrinth.com/data/FKi0XGBk/versions/UQgVHxge/day-dream-1.0.6.jar"
 hash-format = "sha1"
-hash = "428a0b5121270b9bec3d3171cab0c6c0bef38c7e"
+hash = "c1f99811177c6fa8a752175ac23fcbe1d3245cd1"
 
 [update]
 [update.modrinth]
 mod-id = "FKi0XGBk"
-version = "z4KM18q6"
+version = "UQgVHxge"

@@ -1,13 +1,13 @@
 name = "Village Spawn Point"
-filename = "villagespawnpoint-fabric_1.19.2-2.5.jar"
+filename = "villagespawnpoint-1.19.3-4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KplTt9Ku/versions/N0LXLVGI/villagespawnpoint-fabric_1.19.2-2.5.jar"
+url = "https://cdn.modrinth.com/data/KplTt9Ku/versions/LYLsMVCc/villagespawnpoint-1.19.3-4.0.jar"
 hash-format = "sha1"
-hash = "c210b683fffd3db870d80d16b73779f7d3a46dcb"
+hash = "9d1ee53e31d1e780cf03d3cd9f845dbf4ff67bab"
 
 [update]
 [update.modrinth]
 mod-id = "KplTt9Ku"
-version = "N0LXLVGI"
+version = "LYLsMVCc"
