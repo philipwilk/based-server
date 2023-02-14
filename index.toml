@@ -16,11 +16,6 @@ hash = "d8833b2961beb076df826ac3a34634260fa9828923a9a327da882065fa3b2f84"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "00bbc94e36588939e7080380a4508de0a7dbbff9899256eea7476ed5ff4b3352"
-metafile = true
-
-[[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "c65fb7a6459404783860340cf31a4b20fa7b37f0f031a85372eb1bb509f27b3f"
 metafile = true
@@ -48,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/day-dream.pw.toml"
 hash = "6b3a5657e4e5ac704607c4c7bcb0cc2d42f78f19b3feca3226fdc29eb0c2b14b"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "891b4d44dbba7a8d73cdf9de40c81f639811ada9f9a2d8a2b533a80163f9f00d"
 metafile = true
 
 [[files]]
@@ -108,11 +108,6 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "2406fde45dfba5beaf45f027f028c28ef9cc8cec91b27429c29979af19b4877b"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "607a572b261275eb0a90133208e8fbef990b886e91a417008726c7b6eafdba27"
 metafile = true
 
 [[files]]
