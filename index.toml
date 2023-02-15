@@ -116,6 +116,11 @@ hash = "2406fde45dfba5beaf45f027f028c28ef9cc8cec91b27429c29979af19b4877b"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "82ced750111c5c106501c824b4883b111c86e6ea96a637ef37726a9ddb5f1cdd"
+metafile = true
+
+[[files]]
 file = "mods/spaghettitrees.pw.toml"
 hash = "2b449db58877b51e8224df6dbdae1ed9358d2415a0cf5203e1d377f582747ad2"
 metafile = true
