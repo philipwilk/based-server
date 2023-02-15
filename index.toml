@@ -31,11 +31,6 @@ hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "64858dde2ddc095fc4ac29bcc2bcb6f397bc01890c0b71f78f309e0dcc3243b4"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
@@ -113,11 +108,6 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "2406fde45dfba5beaf45f027f028c28ef9cc8cec91b27429c29979af19b4877b"
-metafile = true
-
-[[files]]
-file = "mods/slumber.pw.toml"
-hash = "b2c63236b7a11ad31f6b09aee3c3ad957543c2d0f7c78a079449df4991be9b8a"
 metafile = true
 
 [[files]]
