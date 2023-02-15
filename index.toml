@@ -91,13 +91,18 @@ hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
 metafile = true
 
 [[files]]
-file = "mods/moogs-voyager-structures.pw.toml"
-hash = "2f4a484565a8b21119a8b63e594d90396c14376b8472451f1a01029bfad377ab"
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "ce46b6f0156642465b132a6deb5c6d15d9ae7ae63313bbb0bc751accf6ed3ad0"
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "2f4a484565a8b21119a8b63e594d90396c14376b8472451f1a01029bfad377ab"
 metafile = true
 
 [[files]]
