@@ -111,6 +111,11 @@ hash = "2406fde45dfba5beaf45f027f028c28ef9cc8cec91b27429c29979af19b4877b"
 metafile = true
 
 [[files]]
+file = "mods/slumber.pw.toml"
+hash = "b2c63236b7a11ad31f6b09aee3c3ad957543c2d0f7c78a079449df4991be9b8a"
+metafile = true
+
+[[files]]
 file = "mods/spaghettitrees.pw.toml"
 hash = "2b449db58877b51e8224df6dbdae1ed9358d2415a0cf5203e1d377f582747ad2"
 metafile = true
