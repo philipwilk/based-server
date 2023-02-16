@@ -46,6 +46,11 @@ hash = "6b3a5657e4e5ac704607c4c7bcb0cc2d42f78f19b3feca3226fdc29eb0c2b14b"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "d5f00c0dc0cfa23dde54728bf346e89b84bbbde9c077a2c2b60356850cdff25b"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "891b4d44dbba7a8d73cdf9de40c81f639811ada9f9a2d8a2b533a80163f9f00d"
 metafile = true
@@ -153,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/village-spawn-point.pw.toml"
 hash = "fee8336b2e37895e369e9db8c84becbfeb6e95e14a9fa54f03b133cb72b83f2a"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "f60dab2c1cf96a1d156c35f24fe90b1b6208202eb59caff77f6348066277e549"
 metafile = true
 
 [[files]]
